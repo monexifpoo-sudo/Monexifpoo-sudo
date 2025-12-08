@@ -8,9 +8,6 @@ A **Monex IF POO** é uma software house criada com foco em soluções simples, 
 ### **Nome da Empresa**
 **Monex IF POO**
 
-### **Logo**
-*(Inserir logo)*
-
 ---
 
 ## 🎯 Missão
